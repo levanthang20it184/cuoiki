@@ -1,0 +1,71 @@
+# System / Log files
+*.DS_Store
+*.log
+
+# Archives
+*.zip
+
+# Sass Cache
+.sass-cache
+
+# Project files
+.idea
+nbproject
+nbproject/private
+.vscode/
+.vs/
+
+# Node / Bower
+node_modules/
+bower_components/
+
+# Plugins
+/adminlte/plugins/**/*.html
+/adminlte/plugins/**/*.less
+/adminlte/plugins/**/*.md
+/adminlte/plugins/**/*.scss
+/adminlte/plugins/**/*.ts
+/adminlte/plugins/**/bower.json
+/adminlte/plugins/**/package.json
+/adminlte/plugins/**/webpack.config.js
+/adminlte/plugins/**/demo/
+/adminlte/plugins/**/demos/
+/adminlte/plugins/**/dev/
+/adminlte/plugins/**/example/
+/adminlte/plugins/**/examples/
+/adminlte/plugins/**/less/
+/adminlte/plugins/**/test/
+/adminlte/plugins/**/tests/
+/adminlte/plugins/daterangepicker/website/
+/adminlte/plugins/daterangepicker/drp.png
+/adminlte/plugins/daterangepicker/moment.min.js
+/adminlte/plugins/daterangepicker/package.js
+/adminlte/plugins/daterangepicker/website.css
+/adminlte/plugins/daterangepicker/website.js
+/adminlte/plugins/jquery-ui/AUTHORS.txt
+/adminlte/plugins/jquery-ui/external/jquery/jquery.js
+/adminlte/plugins/inputmask/bindings/
+/adminlte/plugins/flot/adminlte/plugins/jquery*.js
+!/adminlte/plugins/flot/adminlte/plugins/jquery.flot.*.js
+!/adminlte/plugins/**/LICENSE.md
+!/adminlte/plugins/**/LICENSE.txt
+!/adminlte/plugins/**/license.md
+!/adminlte/plugins/**/license.txt
+!/adminlte/plugins/**/LICENSE
+!/adminlte/plugins/**/license
+!/adminlte/plugins/**/COPYING
+
+
+# Docs
+/docs/_site/
+/docs/vendor/
+/docs/.bundle/
+/docs_html/
+.jekyll-cache/
+.jekyll-metadata
+
+# ETC
+TODO
+test.html
+ad.js
+/.cache/
